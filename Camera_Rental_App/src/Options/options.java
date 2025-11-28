@@ -110,8 +110,8 @@ public class options {
 	
 	public static void dummy_data_mycamera() {
 		my_cameras.put(1, new My_camera(1, "Canon", "EOS 1500D", 35000.0f, "Available"));
-		my_cameras.put(2, new My_camera(4, "Fujifilm", "X-T200", 52000.0f, "Available"));
-		my_cameras.put(3, new My_camera(7, "Leica", "V-Lux 5", 95000.0f, "Rented"));
+		my_cameras.put(4, new My_camera(4, "Fujifilm", "X-T200", 52000.0f, "Available"));
+		my_cameras.put(7, new My_camera(7, "Leica", "V-Lux 5", 95000.0f, "Rented"));
 //		my_cameras.put(4, new My_camera(14,"Sony","DSLR12",200.0,"Available"));
 //		my_cameras.put(5, new My_camera(15,"Samsung","SM123",200.0,"Available"));
 //		my_cameras.put(6, new My_camera(16,"SONY","SONY1234",123.0,"Available"));
@@ -270,3 +270,4 @@ public class options {
 	}
 	
 }
+
